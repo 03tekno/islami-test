@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=İslami Test
+Comment=Dini Bilgi Yarışması
+Exec=/usr/bin/islami-test
+Icon=/opt/islami-test/icon.png
+Type=Application
+Categories=Education;
+Terminal=false

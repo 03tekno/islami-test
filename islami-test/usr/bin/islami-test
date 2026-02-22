@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /opt/islami-test && python3 islami-test.py
