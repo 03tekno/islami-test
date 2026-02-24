@@ -29,7 +29,7 @@ Version: $VERSION
 Section: utils
 Priority: optional
 Architecture: all
-Depends: python3, python3-pyqt6, libqt6multimedia6
+Depends: python3, python3-pyqt6, libqt6multimedia6, python3-pyqt6.qtmultimedia
 Maintainer: mobilturka <github.com/03tekno>
 Description: PyQt6 ile hazırlanmış İslami Bilgi Yarışması.
  1400 karma soru ile
